@@ -1,0 +1,7 @@
+ERROR | 15-06-2023 22:29:13 | utility.DatabaseHandler - Произошла ошибка при подключении к базе данных!
+ERROR | 15-06-2023 22:29:13 | utility.DatabaseHandler - The connection to the database is not established!
+ERROR | 15-06-2023 22:29:13 | utility.CollectionManager - Коллекция не может быть загружена!
+INFO  | 15-06-2023 22:29:13 | server.Server - Starting the server...
+INFO  | 15-06-2023 22:29:13 | server.Server - The server is running.
+INFO  | 15-06-2023 22:29:13 | server.Server - Permission for a new connection has been received.
+INFO  | 15-06-2023 22:29:13 | server.Server - Прослушивание порта '1821'...

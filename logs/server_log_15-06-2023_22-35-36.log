@@ -1,0 +1,6 @@
+INFO  | 15-06-2023 22:35:37 | utility.DatabaseHandler - Соединение с базой данных установлено.
+INFO  | 15-06-2023 22:35:37 | utility.CollectionManager - Коллекция загружена.
+INFO  | 15-06-2023 22:35:37 | server.Server - Starting the server...
+INFO  | 15-06-2023 22:35:37 | server.Server - The server is running.
+INFO  | 15-06-2023 22:35:37 | server.Server - Permission for a new connection has been received.
+INFO  | 15-06-2023 22:35:37 | server.Server - Прослушивание порта '1821'...

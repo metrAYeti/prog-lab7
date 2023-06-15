@@ -1,0 +1,19 @@
+ERROR | 28-05-2023 18:16:40 | utility.DatabaseHandler - Произошла ошибка при подключении к базе данных!
+ERROR | 28-05-2023 18:16:40 | utility.DatabaseHandler - Соединение с базой данных не установлено!
+ERROR | 28-05-2023 18:16:40 | utility.CollectionManager - Коллекция не может быть загружена!
+INFO  | 28-05-2023 18:16:40 | server.Server - Запуск сервера...
+INFO  | 28-05-2023 18:16:40 | server.Server - Сервер запущен.
+INFO  | 28-05-2023 18:16:40 | server.Server - Разрешение на новое соединение получено.
+INFO  | 28-05-2023 18:16:40 | server.Server - Прослушивание порта '1821'...
+INFO  | 28-05-2023 18:18:22 | server.Server - Соединение с клиентом установлено.
+INFO  | 28-05-2023 18:18:22 | server.Server - Разрешение на новое соединение получено.
+INFO  | 28-05-2023 18:18:22 | server.Server - Прослушивание порта '1821'...
+ERROR | 28-05-2023 18:18:41 | utility.DatabaseHandler - Соединение с базой данных не установлено!
+ERROR | 28-05-2023 18:18:41 | utility.DatabaseUserManager - Произошла ошибка при выполнении запроса SELECT_USER_BY_USERNAME!
+INFO  | 28-05-2023 18:18:41 | utility.ConnectionHandler - Запрос 'register' обработан.
+ERROR | 28-05-2023 18:18:50 | utility.DatabaseHandler - Соединение с базой данных не установлено!
+ERROR | 28-05-2023 18:18:50 | utility.DatabaseUserManager - Произошла ошибка при выполнении запроса SELECT_USER_BY_USERNAME_AND_PASSWORD!
+INFO  | 28-05-2023 18:18:50 | utility.ConnectionHandler - Запрос 'login' обработан.
+WARN  | 28-05-2023 18:19:16 | utility.ConnectionHandler - Непредвиденный разрыв соединения с клиентом!
+INFO  | 28-05-2023 18:19:16 | utility.ConnectionHandler - Клиент отключен от сервера.
+INFO  | 28-05-2023 18:19:16 | server.Server - Разрыв соединения зарегистрирован.
